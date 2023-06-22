@@ -9,10 +9,10 @@ An Android app consuming a [Valorant Game](https://valorant-api.com/) API to dis
 
 <br/>
 
+
 Here's a video of how it looks.
 
-https://github.com/Musfick/AgentX/assets/43013838/c0541f6f-f19e-4068-913f-ba13b0000d3e
-
+https://github.com/Musfick/AgentX/assets/43013838/983b6c83-4f2a-4545-b9ee-1e7cf741ba84
 
 ## Tech stack & Open-source libraries
 - 100% [Kotlin](https://kotlinlang.org/) based, [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
