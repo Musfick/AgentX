@@ -1,0 +1,27 @@
+CREATE TABLE agentEntity(
+    uuid TEXT NOT NULL PRIMARY KEY,
+    displayName TEXT,
+    description TEXT,
+    displayIcon TEXT,
+    fullPortrait TEXT,
+    background TEXT,
+    backgroundGradientColors TEXT,
+    role TEXT
+);
+
+getAllAgents:
+SELECT *
+FROM agentEntity;
+
+insertAgent:
+INSERT OR REPLACE
+INTO agentEntity(
+uuid,
+displayName,
+description,
+displayIcon,
+fullPortrait,
+background,
+backgroundGradientColors,
+role
+) VALUES(?,?,?,?,?,?,?,?);
