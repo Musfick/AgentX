@@ -13,6 +13,7 @@ Here's a video of how it looks.
 
 https://github.com/Musfick/AgentX/assets/43013838/c0541f6f-f19e-4068-913f-ba13b0000d3e
 
+
 ## Tech stack & Open-source libraries
 - 100% [Kotlin](https://kotlinlang.org/) based, [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
 - Jetpack Compose (Android UI)
@@ -33,6 +34,9 @@ https://github.com/Musfick/AgentX/assets/43013838/c0541f6f-f19e-4068-913f-ba13b0
 - Repository
 - Usecase
 - UiState(Loading, Success, Error)
+
+## Download APK
+https://github.com/Musfick/AgentX/blob/master/androidApp-debug.apk
 
 ## Todo
 - add koin for dependency injection
