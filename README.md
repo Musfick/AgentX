@@ -1,7 +1,7 @@
 <h1 align="center">AgentX</h1>
 
 <p align="center">  
-An Android app consuming a [Valorant Game](https://valorant-api.com/) API to display agent list. it has been built with Kotlin Multiplatform Mobile (KMM), Repository Pattern and MVVM pattern as well as Architecture Components. 
+An Android & iOS app consuming a [Valorant Game](https://valorant-api.com/) API to display agent list. it has been built with Kotlin Multiplatform Mobile (KMM), Repository Pattern and MVVM pattern as well as Architecture Components. 
 </p>
 <p align="center">
 <img src="cover.jpg"/>
